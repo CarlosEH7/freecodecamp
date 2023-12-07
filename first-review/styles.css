@@ -8,11 +8,12 @@ body{
     text-align: center;
   }
   .movie{
-    margin: 2em;
-    padding-left:10%;
-    padding-right:10%;
-    border: 0 10px black;
+    margin: -4px 0;
+    padding: 0 8px;
+    border: 2px solid black;
     transition: transform 0.2s ease-in-out;
+    box-sizing: border-box;
+
   }
   .bold{
     font-weight: 800;
