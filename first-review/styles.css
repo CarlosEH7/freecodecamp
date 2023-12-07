@@ -15,3 +15,6 @@ body{
     padding-right:10%;
     border: 0 10px black;
   }
+  .bold{
+    font-weight: 800;
+  }
