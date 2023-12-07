@@ -8,19 +8,15 @@ body{
     text-align: center;
   }
   .movie{
-    box-sizing: border-box;
-    box-shadow: 0 0 5px blue;
     margin: 2em;
     padding-left:10%;
     padding-right:10%;
     border: 0 10px black;
+    transition: transform 0.2s ease-in-out;
   }
   .bold{
     font-weight: 800;
   }
   div:hover{
     transform: scale(1.05);
-  }
-  div {
-    transition: transform 0.2s ease-in-out;
   }
