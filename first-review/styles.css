@@ -1,0 +1,17 @@
+body{
+    width: auto;
+    height: auto;
+    background-color: lightgray;
+    font-family:'Courier New', Courier, monospace
+  }
+  h1{
+    text-align: center;
+  }
+  .movie{
+    box-sizing: border-box;
+    box-shadow: 0 0 5px blue;
+    margin: 2em;
+    padding-left:10%;
+    padding-right:10%;
+    border: 0 10px black;
+  }
